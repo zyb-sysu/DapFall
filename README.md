@@ -7,5 +7,6 @@ Using Wi-Fi Channel State Information (CSI) is a novel way of sensing. Such a sy
 The main goal of this thesis was to explore a novel cross-environmental fall detection systems. To this end, a novel data processing method to extract a new feature, namely "Dynamic Amplitude Probability Density" (DAPD) is proposed. It can be reduce the static components in original CSI amplitude effectively.
 
 
-
-、
+# Data Availiable
+Baidu Netdisk
+https://pan.baidu.com/s/1Yk6j67B-KCO_nrequ214Vg code: v2ju 
