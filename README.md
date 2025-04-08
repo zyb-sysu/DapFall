@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e14c9545-cc58-43a7-911b-32f05903a199)# DapFall: Dynamic Amplitude Probability Density Profile based WiFi CSI Sensing for Fall Detection
+DapFall: Dynamic Amplitude Probability Density Profile based WiFi CSI Sensing for Fall Detection
 
 This is a repository with source code for the paper "DapFall: Dynamic Amplitude Probability Density Profile based WiFi CSI Sensing for Fall Detection" .
 
